@@ -1,0 +1,124 @@
+/* * {
+margin: 0;
+padding: 0;
+}
+*/
+
+header { 
+	display: block;
+}
+
+
+body {
+    background-image: url("dark_embroidery.png");
+    background-color: #2E2E2E;
+}
+
+h2:first-letter {
+	font-family: 'Over the Rainbow', serif;
+	font-size: 35px;
+	letter-spacing: -5px;
+}
+
+
+.container {
+	display: none;
+} 
+
+.container {
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #ffffff;
+	padding: 5px 40px 20px 40px;
+	border: 1px solid #101010;
+	box-shadow: 6px 6px 4px #101010;
+}
+
+.container h2, h3, h4, p, li {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-weight: normal;
+}
+
+.container h1, h2 {
+	color: #0e6784;
+}
+
+.container h3, h4 {
+	margin-bottom: 0px;
+}
+
+.container li {
+	font-size: 15px;
+	line-height: 18px;
+	margin-bottom: 8px;
+}
+
+h1 {
+	margin-bottom: -10px;
+	letter-spacing: 3px;
+	font-size: 26px;
+	text-align: center;
+	font-family: 'Over the Rainbow', serif;
+}
+
+h2 {
+	margin-top: 20px;
+	margin-bottom: 0px;
+	font-size: 22px;
+	line-height: 28px;
+	border-bottom: 2px solid #C8C8C8;
+}
+
+h3 {
+	color: #0e6784;
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+h4 {
+	margin-top: 0px;
+	font-size: 15px;
+	font-weight: lighter;
+}
+
+
+header {
+	margin-bottom: 35px;
+}
+
+
+
+header p {
+	font-size: 12px;
+	margin-top: 3px;
+	text-align: center;
+}
+
+header a {
+	color: #0e6784;
+	text-decoration: none;
+}
+
+section p {
+	float: right;
+	font-style: italic;
+	font-size: 12px;
+}
+
+section {
+	margin-bottom: 30px;
+}
+
+.WriteCap {
+	font-family: 'Over the Rainbow', serif;
+	font-size: 28px;
+}
+
+button {
+	width: 200px;
+	margin: 10px auto 0;
+	display: block;
+}
+
+
